@@ -51,7 +51,7 @@ img:hover {
 .column {
   position: relative;
   left: 0;
-  width: 10%;
+  width: 50%;
   height: 100;
   border-style: dashed;
 }

@@ -53,7 +53,7 @@ img:hover {
   height: 100;
   display: inline-block;
   margin: auto;
-  vertical-align: middle;
+  vertical-align: bottom;
   border-style: dashed;
   bottom:0;
 }

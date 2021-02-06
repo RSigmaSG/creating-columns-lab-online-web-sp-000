@@ -56,7 +56,7 @@ img:hover {
   vertical-align: bottom;
   border-style: dashed;
   bottom:0;
-  left: 0;
+
 }
   
 /* create your tile classes! we recommend .small .med .large */
@@ -73,4 +73,5 @@ img:hover {
 .large {
   width: 300%;
   height: 300%;
+    left: 0;
 }

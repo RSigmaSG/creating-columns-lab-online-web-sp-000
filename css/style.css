@@ -54,7 +54,7 @@ img:hover {
   display: inline-block;
   margin: auto;
   vertical-align: bottom;
-  align: left;
+  float: left;
   border-style: dashed;
   bottom:0;
 

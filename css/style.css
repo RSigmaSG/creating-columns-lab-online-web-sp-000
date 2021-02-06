@@ -53,6 +53,7 @@ img:hover {
   width: 30%;
   height: 100;
   display: inline-block;
+  vertical-align: middle
 }
   
 /* create your tile classes! we recommend .small .med .large */

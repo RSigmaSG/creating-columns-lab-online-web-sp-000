@@ -52,6 +52,7 @@ img:hover {
   width: 30%;
   height: 100;
   display: inline-block;
+  margin: auto;
   vertical-align: middle;
 }
   
